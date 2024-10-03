@@ -14,6 +14,8 @@ public:
             inc.push_back(0);
         }
     }
+    //hi
+    
 
     int pop() {
         if (stack.empty()) return -1;
